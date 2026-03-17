@@ -1,6 +1,6 @@
 [
     {
-        "device_id": "gg",
+        "device_id": "fef1117762e6161d",
         "key": "key",
         "expirydate": "31-12-2025",
         "Allowoffline": true
@@ -12,7 +12,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "fef1117762e6161d",
+        "device_id": "fef111e6161d",
         "key": "key69",
         "expirydate": "31-12-2025",
         "Allowoffline": true
